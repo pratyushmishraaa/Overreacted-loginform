@@ -4,7 +4,7 @@ import "./Home.css"
 const Home = () => {
   return (
     <div className='login'>
-    <h2>Login form</h2>
+    <h2>Signin form</h2>
     <form action="">
     <label>User name : </label>   
             <input type="text" placeholder="Enter User name" name="username" required /> <br /> <br />
