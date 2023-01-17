@@ -1,0 +1,50 @@
+*{
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   
+   
+}
+.login{  
+   width: 400px;  
+   height: fit-content;
+   overflow: hidden;  
+   margin: auto;  
+   margin: 90px 0 0 480px;  
+   padding:   60px;  
+   background: #23463f;  
+   border-radius: 15px; 
+     
+} 
+form{
+margin-top: 50px;
+margin-left: 40px;
+
+} 
+h2{  
+text-align: center;  
+color: #fff;
+margin-top: -50px; 
+text-decoration: underline #fff;   
+}  
+label{  
+color: #08ffd1;  
+font-size: 15px;  
+}  
+
+.btn-1{  
+align-items: center;  
+background-color: rgb(217, 201, 201); 
+padding:10px 65px; 
+border-radius: 25px;
+text-align: center;
+}
+.btn-1:hover{ 
+   background-color: green;
+}
+
+
+input{
+height: 30px;
+
+}
